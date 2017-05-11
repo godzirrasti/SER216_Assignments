@@ -20,20 +20,29 @@ SER216
 Assignments from SER216. Software testing and design.
 
 ## Assignment 1
+
 MagicSquare
 
 ## Assignment 2
+
 BinaryToDecimal
 
 ## Assignment 3
+
 BankAccount
+
 BankAccountTest
+
 Customer
+
 CustomerTest
+
 LabTestSuite
 
 ## Assignment 4
+
 Flow chart
 
 ## Assigment 6
+
 MagicSquareTest
